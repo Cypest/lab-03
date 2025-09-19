@@ -2,11 +2,13 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Google developers on Dialogs' implementation https://developer.android.com/develop/ui/views/components/dialogs
+Google developers on how to use fragments https://developer.android.com/guide/fragments/communicate
+Gemini for examples on newInstance()
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
 | `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `<Tsz Shing Wong>` | `<tszshing>`  |
